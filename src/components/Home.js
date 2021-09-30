@@ -12,7 +12,7 @@ const DELETE_URL =
 const EDIT_URL =
   "https://e6fy6bfesg.execute-api.ap-south-1.amazonaws.com/dev/edit";
 
-const API_KEY = "xDyVvll40ep4wyJWDvFn7Enf3wVsvSp3hXb0IKG6";
+const API_KEY = "YOUR_API_KEY";
 
 const requestConfig = {
   headers: { "x-api-key": API_KEY }
