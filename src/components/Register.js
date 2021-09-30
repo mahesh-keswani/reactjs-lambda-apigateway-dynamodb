@@ -4,7 +4,8 @@ import './register.css';
 
 const REGISTER_URL =
   "https://e6fy6bfesg.execute-api.ap-south-1.amazonaws.com/dev/register";
-const API_KEY = "xDyVvll40ep4wyJWDvFn7Enf3wVsvSp3hXb0IKG6";
+const API_KEY = "YOUR-API-KEY";
+
 function Register(props) {
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");

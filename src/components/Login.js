@@ -3,7 +3,7 @@ import axios from 'axios';
 import './register.css';
 
 const LOGIN_URL = "https://e6fy6bfesg.execute-api.ap-south-1.amazonaws.com/dev/login";
-const API_KEY = 'xDyVvll40ep4wyJWDvFn7Enf3wVsvSp3hXb0IKG6';
+const API_KEY = 'YOUR-API-KEY';
 
 function Login(props) {
     const [email, setEmail] = useState('');
