@@ -1,0 +1,22 @@
+ul {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  border: 1px solid #e7e7e7;
+  background-color: #f3f3f3;
+}
+
+li {
+  float: left;
+}
+
+.eachBlock{
+  padding: 5px;
+  margin-right: 5px;
+  list-style-type: none;
+  border-radius: 3px;
+}
+
+.eachBlock:hover{
+  background-color: rgb(128, 128, 128);
+}
