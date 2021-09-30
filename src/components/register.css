@@ -1,0 +1,19 @@
+#registerForm{
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 20px;
+    border: 1px solid black;
+    padding: 3%;
+    border-radius: 10px;
+        
+}
+
+.message {
+    color: brown;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+#closeButton{
+    margin-left: 20px;
+}
